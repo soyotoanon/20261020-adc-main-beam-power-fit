@@ -4,3 +4,6 @@ recordings/
 .Xil/
 *.dcp
 *.jou
+
+.pytest_cache/
+!validation/**/*.log
