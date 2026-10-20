@@ -1,0 +1,2 @@
+﻿time_s,power_mw,code,power_std_mw,code_std,reference_n,adc_frames,mode
+98.0,0.035105950000000004,8069.660810671355,0.00018832360205483855,0.3666499994728175,12,38,真实 PM100D + FPGA
